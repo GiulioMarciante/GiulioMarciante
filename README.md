@@ -10,8 +10,7 @@ Welcome to my Github page! I am Giulio and I am currently finishing my Junior Ja
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Java Junior Back End course
-- Taking online courses about springboot and 
+- Taking online courses about springboot
 - Working on personal projects
 
 #### :muscle: Things I am challenging myself with:
