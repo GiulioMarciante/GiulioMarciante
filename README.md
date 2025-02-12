@@ -5,7 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giulio-marciante-276735190/)
 [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:giulio.marciante@hotmail.com)
 
-Welcome to my Github page! I am Giulio and I am currently finishing my Junior Java Back End course at Develhope  
+Welcome to My GitHub Page! 👋
+
+Hi! I’m a Junior Java Back-End Developer, recently certified through Develhope. Here, you’ll find projects showcasing my skills in Java, Spring Boot, REST APIs, and more. Let’s connect and build something great together! 🚀 
 
 
 
@@ -17,7 +19,7 @@ Welcome to my Github page! I am Giulio and I am currently finishing my Junior Ja
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
-- Improving my knowledge with some education apart from the course
+- Improving my knowledge with some online education
 
 #### :computer: Programming languages and tools: 
 <p>
